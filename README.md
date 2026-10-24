@@ -164,5 +164,3 @@ python tool/package_delivery.py
 ```
 
 The script creates an evaluation APK, a complete Windows release ZIP, a Flutter source ZIP, and `SHA256SUMS.txt` under `dist/`. This generated directory is excluded from Git. Distribute binaries as release assets separately from the source repository. The APK uses debug signing until you configure your own release key, as described above.
-#   G l y p h i c a  
- 
