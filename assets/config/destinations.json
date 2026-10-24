@@ -1,0 +1,9 @@
+[
+  {"id":"generic","name":"Plain text","width":80,"budget":12000,"unicode":false,"codeBlock":false,"guidance":"Best in a monospace editor. The receiving app may collapse spaces or wrap long rows."},
+  {"id":"instagram","name":"Instagram DMs","width":32,"budget":1000,"unicode":false,"codeBlock":false,"guidance":"Start narrow. Proportional fonts, line wrapping, and repeated spaces may change the silhouette."},
+  {"id":"facebook","name":"Facebook","width":40,"budget":4000,"unicode":false,"codeBlock":false,"guidance":"Feed and comment layouts vary. Test a small part first; monospace and preserved spacing are not assumed."},
+  {"id":"whatsapp","name":"WhatsApp","width":36,"budget":4000,"unicode":true,"codeBlock":false,"guidance":"Try blocks or Braille, then check the recipient's font. This profile sends plain text without formatting assumptions."},
+  {"id":"discord","name":"Discord","width":56,"budget":2000,"unicode":false,"codeBlock":true,"guidance":"Optional fenced code blocks are documented by Discord. The budget is an adjustable conservative estimate; account and client behavior varies.","formatSource":"https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline"},
+  {"id":"x","name":"X DMs","width":36,"budget":4000,"unicode":false,"codeBlock":false,"guidance":"Use narrow rows. Fonts, whitespace, and accepted lengths may vary by account and client."},
+  {"id":"messenger","name":"Messenger","width":36,"budget":4000,"unicode":true,"codeBlock":false,"guidance":"A compact Unicode variant may help with silhouettes. Glyph shape and spacing vary across devices."}
+]

@@ -1,0 +1,69 @@
+# Flutter and Dart caches (keep pubspec.lock and .metadata)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+.widget_preview/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+app.*.symbols
+app.*.map.json
+
+# Native build caches and outputs
+.gradle/
+.kotlin/
+.cxx/
+.swiftpm/
+.build/
+/android/app/build/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# Generated delivery packages
+/dist/
+*.apk
+*.aab
+*.ipa
+
+# Machine-specific configuration and signing material
+local.properties
+key.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.mobileprovision
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Local IDE settings
+.idea/
+.vscode/
+.vs/
+*.iml
+*.ipr
+*.iws
+
+# Logs and temporary files
+*.log
+*.class
+*.pyc
+__pycache__/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+.atom/
+.buildlog/
+.history/
+.svn/
+migrate_working_dir/

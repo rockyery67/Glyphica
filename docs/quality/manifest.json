@@ -1,0 +1,362 @@
+[
+  {
+    "name": "dark",
+    "look": "silhouette",
+    "source": "test/fixtures\\dark.png",
+    "text": "docs/quality/dark-silhouette.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "dark",
+    "look": "shading",
+    "source": "test/fixtures\\dark.png",
+    "text": "docs/quality/dark-shading.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "dark",
+    "look": "detail",
+    "source": "test/fixtures\\dark.png",
+    "text": "docs/quality/dark-detail.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "dark",
+    "look": "blocks",
+    "source": "test/fixtures\\dark.png",
+    "text": "docs/quality/dark-blocks.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "dark",
+    "look": "braille",
+    "source": "test/fixtures\\dark.png",
+    "text": "docs/quality/dark-braille.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "format",
+    "look": "silhouette",
+    "source": "test/fixtures\\format.webp",
+    "text": "docs/quality/format-silhouette.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "format",
+    "look": "shading",
+    "source": "test/fixtures\\format.webp",
+    "text": "docs/quality/format-shading.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "format",
+    "look": "detail",
+    "source": "test/fixtures\\format.webp",
+    "text": "docs/quality/format-detail.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "format",
+    "look": "blocks",
+    "source": "test/fixtures\\format.webp",
+    "text": "docs/quality/format-blocks.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "format",
+    "look": "braille",
+    "source": "test/fixtures\\format.webp",
+    "text": "docs/quality/format-braille.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "landscape",
+    "look": "silhouette",
+    "source": "test/fixtures\\landscape.jpg",
+    "text": "docs/quality/landscape-silhouette.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "landscape",
+    "look": "shading",
+    "source": "test/fixtures\\landscape.jpg",
+    "text": "docs/quality/landscape-shading.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "landscape",
+    "look": "detail",
+    "source": "test/fixtures\\landscape.jpg",
+    "text": "docs/quality/landscape-detail.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "landscape",
+    "look": "blocks",
+    "source": "test/fixtures\\landscape.jpg",
+    "text": "docs/quality/landscape-blocks.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "landscape",
+    "look": "braille",
+    "source": "test/fixtures\\landscape.jpg",
+    "text": "docs/quality/landscape-braille.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "line",
+    "look": "silhouette",
+    "source": "test/fixtures\\line.png",
+    "text": "docs/quality/line-silhouette.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "line",
+    "look": "shading",
+    "source": "test/fixtures\\line.png",
+    "text": "docs/quality/line-shading.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "line",
+    "look": "detail",
+    "source": "test/fixtures\\line.png",
+    "text": "docs/quality/line-detail.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "line",
+    "look": "blocks",
+    "source": "test/fixtures\\line.png",
+    "text": "docs/quality/line-blocks.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "line",
+    "look": "braille",
+    "source": "test/fixtures\\line.png",
+    "text": "docs/quality/line-braille.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "logo",
+    "look": "silhouette",
+    "source": "test/fixtures\\logo.png",
+    "text": "docs/quality/logo-silhouette.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "logo",
+    "look": "shading",
+    "source": "test/fixtures\\logo.png",
+    "text": "docs/quality/logo-shading.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "logo",
+    "look": "detail",
+    "source": "test/fixtures\\logo.png",
+    "text": "docs/quality/logo-detail.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "logo",
+    "look": "blocks",
+    "source": "test/fixtures\\logo.png",
+    "text": "docs/quality/logo-blocks.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "logo",
+    "look": "braille",
+    "source": "test/fixtures\\logo.png",
+    "text": "docs/quality/logo-braille.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "pet",
+    "look": "silhouette",
+    "source": "test/fixtures\\pet.png",
+    "text": "docs/quality/pet-silhouette.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "pet",
+    "look": "shading",
+    "source": "test/fixtures\\pet.png",
+    "text": "docs/quality/pet-shading.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "pet",
+    "look": "detail",
+    "source": "test/fixtures\\pet.png",
+    "text": "docs/quality/pet-detail.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "pet",
+    "look": "blocks",
+    "source": "test/fixtures\\pet.png",
+    "text": "docs/quality/pet-blocks.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "pet",
+    "look": "braille",
+    "source": "test/fixtures\\pet.png",
+    "text": "docs/quality/pet-braille.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "portrait",
+    "look": "silhouette",
+    "source": "test/fixtures\\portrait.png",
+    "text": "docs/quality/portrait-silhouette.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "portrait",
+    "look": "shading",
+    "source": "test/fixtures\\portrait.png",
+    "text": "docs/quality/portrait-shading.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "portrait",
+    "look": "detail",
+    "source": "test/fixtures\\portrait.png",
+    "text": "docs/quality/portrait-detail.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "portrait",
+    "look": "blocks",
+    "source": "test/fixtures\\portrait.png",
+    "text": "docs/quality/portrait-blocks.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "portrait",
+    "look": "braille",
+    "source": "test/fixtures\\portrait.png",
+    "text": "docs/quality/portrait-braille.txt",
+    "columns": 100,
+    "rows": 50,
+    "characters": 5049
+  },
+  {
+    "name": "transparent",
+    "look": "silhouette",
+    "source": "test/fixtures\\transparent.png",
+    "text": "docs/quality/transparent-silhouette.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "transparent",
+    "look": "shading",
+    "source": "test/fixtures\\transparent.png",
+    "text": "docs/quality/transparent-shading.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "transparent",
+    "look": "detail",
+    "source": "test/fixtures\\transparent.png",
+    "text": "docs/quality/transparent-detail.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "transparent",
+    "look": "blocks",
+    "source": "test/fixtures\\transparent.png",
+    "text": "docs/quality/transparent-blocks.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  },
+  {
+    "name": "transparent",
+    "look": "braille",
+    "source": "test/fixtures\\transparent.png",
+    "text": "docs/quality/transparent-braille.txt",
+    "columns": 100,
+    "rows": 33,
+    "characters": 3332
+  }
+]
